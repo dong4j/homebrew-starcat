@@ -19,13 +19,9 @@ cask "starcat" do
 
   zap trash: [
     "~/Library/Application Support/Starcat",
-    "~/Library/Caches/com.starcat.app",
     "~/Library/Caches/com.starcat.app.direct",
-    "~/Library/HTTPStorages/com.starcat.app",
     "~/Library/HTTPStorages/com.starcat.app.direct",
-    "~/Library/Preferences/com.starcat.app.plist",
     "~/Library/Preferences/com.starcat.app.direct.plist",
-    "~/Library/Saved Application State/com.starcat.app.savedState",
     "~/Library/Saved Application State/com.starcat.app.direct.savedState",
   ]
 end
