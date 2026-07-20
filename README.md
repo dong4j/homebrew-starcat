@@ -16,7 +16,7 @@
 <a href="https://starcat.ink"><img src="https://img.shields.io/badge/website-starcat.ink-38BDF8?style=flat&color=blue" alt="website"/></a>
 <a href="https://github.com/dong4j/starcat-pro"><img src="https://img.shields.io/badge/support-starcat--pro-lightgrey.svg?style=flat&color=blue" alt="support"/></a>
 <a href="https://github.com/dong4j/homebrew-starcat"><img src="https://img.shields.io/badge/install-homebrew-lightgrey.svg?style=flat&color=blue" alt="homebrew"/></a>
-<a href="https://github.com/dong4j/starcat-localization"><img src="https://img.shields.io/badge/localization-open-lightgrey.svg?style=flat&color=blue" alt="localization"/></a>
+<a href="https://github.com/starcat-app/starcat-localization"><img src="https://img.shields.io/badge/localization-open-lightgrey.svg?style=flat&color=blue" alt="localization"/></a>
 </div>
 
 <div align="center">
@@ -34,11 +34,11 @@ brew install --cask starcat
 **Useful links:**
 
 - Home: https://starcat.ink
-- Download: https://starcat.ink/downloads/Starcat-1.0.0-arm64.dmg
+- Download: https://starcat.ink/downloads/Starcat-1.1.0-arm64.dmg
 - Public support and release notes: https://github.com/dong4j/starcat-pro
 - Homebrew tap: https://github.com/dong4j/homebrew-starcat
 - Browser plugins: [Chrome](https://github.com/dong4j/starcat-chrome-plugin) / [Safari](https://github.com/dong4j/starcat-safari-plugin)
-- Localization: https://github.com/dong4j/starcat-localization
+- Localization: https://github.com/starcat-app/starcat-localization
 
 **Starcat ecosystem:**
 
@@ -104,6 +104,6 @@ The cask zap is scoped to the Direct build bundle id, `com.starcat.app.direct`.
 
 - Website: https://starcat.ink
 - Public support and release notes: https://github.com/dong4j/starcat-pro
-- Localization: https://github.com/dong4j/starcat-localization
+- Localization: https://github.com/starcat-app/starcat-localization
 - Release notes: https://starcat.ink/changelog.html
 - Cask source: [Casks/starcat.rb](./Casks/starcat.rb)

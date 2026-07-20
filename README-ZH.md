@@ -16,7 +16,7 @@
 <a href="https://starcat.ink"><img src="https://img.shields.io/badge/website-starcat.ink-38BDF8?style=flat&color=blue" alt="website"/></a>
 <a href="https://github.com/dong4j/starcat-pro"><img src="https://img.shields.io/badge/support-starcat--pro-lightgrey.svg?style=flat&color=blue" alt="support"/></a>
 <a href="https://github.com/dong4j/homebrew-starcat"><img src="https://img.shields.io/badge/install-homebrew-lightgrey.svg?style=flat&color=blue" alt="homebrew"/></a>
-<a href="https://github.com/dong4j/starcat-localization"><img src="https://img.shields.io/badge/localization-open-lightgrey.svg?style=flat&color=blue" alt="localization"/></a>
+<a href="https://github.com/starcat-app/starcat-localization"><img src="https://img.shields.io/badge/localization-open-lightgrey.svg?style=flat&color=blue" alt="localization"/></a>
 </div>
 
 <div align="center">
@@ -34,11 +34,11 @@ brew install --cask starcat
 **相关链接：**
 
 - 官网: https://starcat.ink
-- 下载: https://starcat.ink/downloads/Starcat-1.0.0-arm64.dmg
+- 下载: https://starcat.ink/downloads/Starcat-1.1.0-arm64.dmg
 - 公开支持与发布说明: https://github.com/dong4j/starcat-pro
 - Homebrew tap: https://github.com/dong4j/homebrew-starcat
 - 浏览器插件: [Chrome](https://github.com/dong4j/starcat-chrome-plugin) / [Safari](https://github.com/dong4j/starcat-safari-plugin)
-- 本地化: https://github.com/dong4j/starcat-localization
+- 本地化: https://github.com/starcat-app/starcat-localization
 
 **Starcat 生态项目：**
 
@@ -104,6 +104,6 @@ cask 的 `zap` 只针对 Direct 版本的 bundle id：`com.starcat.app.direct`�
 
 - 官网：https://starcat.ink
 - 公开支持与发布说明：https://github.com/dong4j/starcat-pro
-- 本地化：https://github.com/dong4j/starcat-localization
+- 本地化：https://github.com/starcat-app/starcat-localization
 - 发布说明：https://starcat.ink/changelog.html
 - Cask 源码：[Casks/starcat.rb](./Casks/starcat.rb)
