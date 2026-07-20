@@ -1,11 +1,11 @@
 cask "starcat" do
   version "1.0.0"
-  sha256 "PLACEHOLDER_SHA256_REBUILD_1_0_0"
+  sha256 "164482a6b1040865ef51b44c615ef80308459772f2e7bf5989f5eb3fa8f1b152"
 
   url "https://starcat.ink/downloads/Starcat-#{version}-arm64.dmg"
   name "Starcat"
-  desc "Native macOS GitHub Stars manager and AI knowledge organizer"
-  homepage "https://starcat.ink"
+  desc "GitHub Stars manager and AI knowledge organizer"
+  homepage "https://starcat.ink/"
 
   livecheck do
     url "https://starcat.ink/appcast.xml"
